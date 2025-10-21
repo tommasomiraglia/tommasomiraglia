@@ -22,7 +22,7 @@ I enjoy exploring **software development**, **automation**, and how **AI and mod
 ### 🌐 Portfolio & Links
 
 - 💼 LinkedIn: [linkedin.com/in/tommasozmiraglia](https://www.linkedin.com/in/tommaso-miraglia-79b105373/)  
-- 🧑‍💻 GitHub: [github.com/tommasoz2005](https://github.com/tommasoz2005)
+- 🧑‍💻 GitHub: [github.com/tommasoz2005](https://github.com/tommasomiraglia)
 
 ---
 
