@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi there 👋, I'm Tommaso Miraglia
 
-<!--
-**tommasomiraglia/tommasomiraglia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍🎓 Computer Engineering Student @ University of Bologna
 
-Here are some ideas to get you started:
+I am an enthusiastic and curious learner currently pursuing my **Bachelor's degree in Computer Engineering**.  
+I enjoy exploring **software development**, **automation**, and how **AI and modern web technologies** can be used to build practical and innovative solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+
+- 🎓 Bachelor’s student in Computer Engineering  
+- 💡 Passionate about learning beyond university lectures  
+- 🧠 Interested in: AI integration, backend automation, web apps, and system design  
+- 📚 Currently learning and experimenting with:  
+  `Java` · `Spring Boot` · `Apache Camel` · `Python` · `n8n` · 
+- 🧩 In my spare time, I build small tools, explore new technologies, and solve coding challenges  
+- 🧑‍🏫 Occasionally tutor high school students in programming and computer science  
+
+---
+
+### 🌐 Portfolio & Links
+
+- 💼 LinkedIn: [linkedin.com/in/tommasozmiraglia](https://www.linkedin.com/in/tommaso-miraglia-79b105373/)  
+- 🧑‍💻 GitHub: [github.com/tommasoz2005](https://github.com/tommasoz2005)
+
+---
+
+### ⚙️ Skills
+
+**Languages:**  
+`Java` · `Python` · `JavaScript` · `HTML` · `CSS` · `SQL`  
+
+**Frameworks / Tools:**  
+`Spring Boot` · `Apache Camel` · `n8n` · `Git` · `Gradle` · `Maven`  
+
+**Concepts:**  
+Object-Oriented Programming · Automation Workflows · API Integration · AI Assistants
+
+---
+
+### 📊 GitHub Stats
+
+![Tommaso's GitHub stats](https://github-readme-stats.vercel.app/api?username=tommasoz2005&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tommasoz2005&layout=compact&theme=tokyonight)
+
+---
+
