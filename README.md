@@ -13,7 +13,7 @@ I enjoy exploring **software development**, **automation**, and how **AI and mod
 - 💡 Passionate about learning beyond university lectures  
 - 🧠 Interested in: AI integration, backend automation, web apps, and system design  
 - 📚 Currently learning and experimenting with:  
-  `Java` · `C` · `Spring Boot` · `Apache Camel` · `Python` · `n8n` · 
+  `Java` · `Spring Boot` · `Apache Camel` · `Python` · `n8n` · 
 - 🧩 In my spare time, I build small tools, explore new technologies, and solve coding challenges  
 - 🧑‍🏫 Occasionally tutor high school students in programming and computer science  
 
@@ -29,7 +29,7 @@ I enjoy exploring **software development**, **automation**, and how **AI and mod
 ### ⚙️ Skills
 
 **Languages:**  
-`Java` · `Python` · `JavaScript` · `HTML` · `CSS` · `SQL`  
+`Java` · `Python` ·  `C` . `JavaScript` · `HTML` · `CSS` · `SQL`  
 
 **Frameworks / Tools:**  
 `Spring Boot` · `Apache Camel` · `n8n` · `Git` · `Gradle` · `Maven`  
