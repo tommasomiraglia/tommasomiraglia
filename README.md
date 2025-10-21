@@ -41,8 +41,8 @@ Object-Oriented Programming · Automation Workflows · API Integration · AI Ass
 
 ### 📊 GitHub Stats
 
-![Tommaso's GitHub stats](https://github-readme-stats.vercel.app/api?username=tommasoz2005&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tommasoz2005&layout=compact&theme=tokyonight)
+![Tommaso's GitHub stats](https://github-readme-stats.vercel.app/api?username=tommasomiraglia&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tommasomiraglia&layout=compact&theme=tokyonight)
 
 ---
 
