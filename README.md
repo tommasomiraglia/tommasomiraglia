@@ -1,4 +1,4 @@
-**Hey there!** 👋
+# Hey there! 👋
 I'm Tommaso, a Software Developer based in Copenhagen.
 I got into software development because I wanted to understand what happens under the hood.
 I'm currently pursuing an MSc in Computer Science.
