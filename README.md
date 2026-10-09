@@ -1,5 +1,4 @@
 # Hey there! 👋
-# Hey there! 👋
 
 I'm Tommaso, a Software Developer based in Copenhagen.
 
